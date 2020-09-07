@@ -4,7 +4,7 @@
 
 **UI 界面效果**
 
-![](assets/ui.png)
+![](./assets/ui.png)
 
 *ffmepg 合并文件*
 
